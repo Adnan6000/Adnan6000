@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Adnan6000
-- 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently learning Ethical Hacking
+
 
 
 <!---
